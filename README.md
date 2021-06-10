@@ -1,2 +1,0 @@
-# MyGitHub
-First GitHub experience.  
